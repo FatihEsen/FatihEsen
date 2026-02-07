@@ -1,4 +1,4 @@
-Markdown<div align="center">
+<div align="center">
   <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=archlinux&logoColor=white&style=for-the-badge" alt="Arch Linux" />
   <img src="https://img.shields.io/badge/Hyprland-00d8ff?logo=hyprland&logoColor=black&style=for-the-badge" alt="Hyprland" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript" />
@@ -37,7 +37,7 @@ Markdown<div align="center">
 
 ### 📫 İletişim
 - X → [@bubibaz](https://x.com/bubibaz)  
-- E-posta → (buraya kişisel mailini istersen ekleyebilirsin)
+- E-posta → fatihesen@gmail.com
 
 <p align="center">
   <i>"Minimalizm karmaşıklığı değil, gereksiz her şeyi atmaktır."</i>
