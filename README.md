@@ -24,11 +24,11 @@
 - Eski usul minimalizm: suckless, LARBS, dwm ricing
 
 ### 🛠️ Teknoloji & Araç Kutusu
-- **WM / DE** → Hyprland • dwm • bspwm  
-- **Editor** → Neovim / Emacs (henüz karar veremedim)  
+- **WM / DE** → Hyprland • dwm  
+- **Editor** → Neovim
 - **Shell** → zsh + custom scripts  
 - **Languages** → TypeScript • Java • Python • Shell • biraz C  
-- **Diğer** → Arch, Gentoo denemeleri, Android (Kotlin/Java), Hugo, Git
+- **Diğer** → Arch, Android (Kotlin/Java), Hugo, Git
 
 ### 📌 En gurur duyduklarım
 - [hyprland-full-setup](https://github.com/FatihEsen/hyprland-full-setup) → Bir scriptle tam Hyprland + rice kurulumu  
