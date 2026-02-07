@@ -24,10 +24,11 @@
 - Eski usul minimalizm: suckless, LARBS, dwm ricing
 
 ### 🛠️ Teknoloji & Araç Kutusu
-- **WM / DE** → Hyprland • dwm  
+- **WM / DE** → Hyprland • dwm • bspwm  
 - **Editor** → Neovim
 - **Shell** → zsh + custom scripts  
 - **Languages** → TypeScript • Java • Python • Shell • biraz C  
+- **AI & Assistant** → Grok (çok seviyor, çünkü yalan söylemiyor ve saçmalamıyor 🚀)  
 - **Diğer** → Arch, Android (Kotlin/Java), Hugo, Git
 
 ### 📌 En gurur duyduklarım
@@ -45,4 +46,5 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/ricing-since%202020-informational?style=flat-square" />
+  <img src="https://img.shields.io/badge/grok-fanboy-8A2BE2?style=flat-square" />
 </div>
